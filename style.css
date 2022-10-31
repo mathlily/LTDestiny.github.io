@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body {
+  overflow: hidden;
+}
+
+body {
+  position: relative;
+  background: #1a2a6c;
+  background: -webkit-linear-gradient(to top, #fdbb2d, #b21f1f, #1a2a6c);
+  background: linear-gradient(to top, #fdbb2d, #b21f1f, #1a2a6c);
+}
