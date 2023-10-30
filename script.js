@@ -134,7 +134,7 @@ class Canvas {
     this.pumpkinBehavior = 1;
     // text
     this.text;
-    this.sentence = this.width > this.height ? 'Happy Halloween, Miss Li.' : 'HALLOWEEN';
+    this.sentence = this.width > this.height ? 'Happy Halloween, Miss Guo.' : 'HALLOWEEN';
     this.textSize = this.standard / 4;
     this.fontSize = this.standard / 25;
     this.textTime = null;
